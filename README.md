@@ -21,5 +21,6 @@ Here are some ideas to get you started:
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ophir-backend-02&theme=gruvbox&hide_border=true" />
 </p>
 <br>
+
 [![Thit Lwin' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ophir-backend-02&theme=gruvbox)](https://github.com/ophir-backend-02)
 
